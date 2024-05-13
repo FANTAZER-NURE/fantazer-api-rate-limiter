@@ -16,5 +16,10 @@
     ],
     "author": "fantazer",
     "license": "MIT"
+  },
+  "dependencies": {
+    "@fantazer/markdown-to-html-converter": "^1.0.1",
+    "@fantazer/api-rate-limiter": "^1.0.3",
+    "chatbotframeworkbyzhiva8": "^1.0.3"
   }
 }
